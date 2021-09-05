@@ -1,0 +1,212 @@
+{
+    "projects": [{
+            "nama": "Expense Tracker",
+            "img": "../img/expense.gif",
+            "link": ["https://github.com/doniwirawan/expense-tracker", "https://doni-expense-tracker.netlify.com/"],
+            "desc": "This app is PWA-based, used to track income and expenses, data from the app is stored using local storage.",
+            "tags":[
+                "html",
+                "css",
+                "js"
+            ]
+        },
+        {
+            "nama": "Hangman Game",
+            "img": "../img/hangman.gif",
+            "link": ["https://github.com/doniwirawan/hangman-game", "https://doni-hangman-game.netlify.com/"],
+            "desc": "Hangman Game is a random word guessing game, if it is correct then you will win and vice versa. (Using Array Method and String Method).",
+            "tags":[
+                "html",
+                "css",
+                "js"
+            ]
+        },
+        {
+            "nama": "New Year Countdown",
+            "img": "../img/year.gif",
+            "link": ["https://github.com/doniwirawan/newYearCountdown", "https://doni-newyearcountdown.netlify.app/"],
+            "desc": "Project to calculate how long the coming new year will be in days to seconds.",
+            "tags":[
+                "html",
+                "css",
+                "js"
+            ]
+        },
+        {
+            "nama": "Shoes Store Landing Page",
+            "img": "../img/shoes2.gif",
+            "link": ["https://github.com/doniwirawan/tokosepatu", "https://doni-toko-sepatu.netlify.app/"],
+            "desc": "Shoes store landing page build using bootstrap.",
+            "tags":[
+                "html",
+                "css",
+                "js"
+            ]
+        },
+        {
+            "nama": "Coktail Finder",
+            "img": "../img/cocktail.gif",
+            "link": ["https://github.com/doniwirawan/cocktail-finder", "https://doni-cocktail-finder.netlify.com/"],
+            "desc": "This app fetches data from CocktailDB REST api, to fetch data using AJAX(fetch).",
+            "tags":[
+                "html",
+                "css",
+                "js"
+            ]
+        },
+        {
+            "nama": "Meal Finder",
+            "img": "../img/meal.gif",
+            "link": ["https://github.com/doniwirawan/MealFinder", "https://doni-meal-finder.netlify.com/"],
+            "desc": "This app fetch data from REST api MealDB, to fetch data using AJAX(fetch).",
+            "tags":[
+                "html",
+                "css",
+                "js"
+            ]
+        },
+        {
+            "nama": "Breath App",
+            "img": "../img/breath.gif",
+            "link": ["https://github.com/doniwirawan/relaxer-app", "https://doni-relaxer-app.netlify.app/"],
+            "desc": "Website to practice breathing using setTimeOut from Javascript.",
+            "tags":[
+                "html",
+                "css",
+                "js"
+            ]
+        },
+        {
+            "nama": "Calculator",
+            "img": "../img/calculator.gif",
+            "link": ["https://github.com/doniwirawan/basic-web-calculator", "https://doni-calculator.netlify.com/"],
+            "desc": "Web Based calculator build using javascript.",
+            "tags":[
+                "html",
+                "css",
+                "js"
+            ]
+        },
+        {
+            "nama": "Music Player",
+            "img": "../img/musicplayer.gif",
+            "link": ["https://github.com/doniwirawan/JS-Simple-Music-Player", "https://doni-js-music.netlify.app/"],
+            "desc": "Web based music player app build using javascript",
+            "tags":[
+                "html",
+                "css",
+                "js"
+            ]
+        },
+        {
+            "nama": "NASA Astronomy Picture of the Day",
+            "img": "../img/nasa.gif",
+            "link": ["https://github.com/doniwirawan/NASA-API-Practice", "https://doni-nasa-api.netlify.app/"],
+            "desc": "Websites to view Astronomy photos from NASA use NASA REST API and also use Local Storage to store user's favorites.",
+            "tags":[
+                "html",
+                "css",
+                "js"
+            ]
+        },
+        {
+            "nama": "Custom Countdown",
+            "img": "../img/custom_countdown.gif",
+            "link": ["https://github.com/doniwirawan/custom_countdown", "https://doni-custom-countdown.netlify.app/"],
+            "desc": "Custom countdown website",
+            "tags":[
+                "html",
+                "css",
+                "js"
+            ]
+        },
+        {
+            "nama": "Bali Tours",
+            "img": "../img/bali-tours.gif",
+            "link": ["https://github.com/doniwirawan/natours-bali-tours-version", "https://doni-bali-tours.netlify.com/"],
+            "desc": "bali tours website build with HTML, CSS, JS",
+            "tags":[
+                "html",
+                "css",
+                "js"
+            ]
+        }],
+        "certificates": [
+        {
+            "img": "../img/sertifikat%20kegiatan%20dan%20lomba%20-%20Halaman%202.jpg",
+            "ket": "Participant of 'ITCC' Web Design competition at UDAYANA University",
+            "tags":[
+                "html",
+                "css",
+                "js"
+            ]
+        },
+        {
+            "img": "../img/sertifikat%20kegiatan%20dan%20lomba%20-%20Halaman%201.jpg",
+            "ket": "Participant of 'PARAS ICT V' Web Design competition at STIKI",
+            "tags":[
+                "html",
+                "css",
+                "js"
+            ]
+        },
+        {
+            "img": "../img/sertifikasi%20kerja%20-%20Halaman%205.jpg",
+            "ket": "Certificate Signs of participating in JUNIOR WEB DEVELOPER TRAINING at BDI Denpasar",
+            "tags":[
+                "html",
+                "css",
+                "js"
+            ]
+        },
+        
+        
+        {
+            "img": "../img/sertifikat.PNG",
+            "ket": "learn fundamentals of front end web development from dicoding.com",
+            "tags":[
+                "html",
+                "css",
+                "js"
+            ]
+        },
+        {
+            "img": "../img/sertifikat2.PNG",
+            "ket": "learn basic web programming from dicoding.com",
+            "tags":[
+                "html",
+                "css",
+                "js"
+            ]
+        },
+        {
+            "img": "../img/sertifikat3.PNG",
+            "ket": "learn basic python from dicoding.com",
+            "tags":[
+                "html",
+                "css",
+                "js"
+            ]
+        },
+        {
+            "img": "../img/sertifikasi%20kerja%20-%20Halaman%202.jpg",
+            "ket": "Internship certificate from Tayatha.com",
+            "tags":[
+                "html",
+                "css",
+                "js"
+            ]
+        },
+        {
+            "img": "../img/sertifikasi%20kerja%20-%20Halaman%204.jpg",
+            "ket": "Certificate of participation in UI/UX Design training at BDI Denpasar",
+            "tags":[
+                "js",
+                "js",
+                "js"
+            ]
+        }
+
+    ]
+
+}
