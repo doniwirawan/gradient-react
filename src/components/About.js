@@ -29,7 +29,7 @@ const About = () => {
                                             electronic things.</p>
                                         <br/>
                                             <p className="h5 letter-spacing-sm font-weight-light"> Besides that I also <span
-                                                className="gradient-text font-weight-bold"> like Meme, Hishrefry, Science, Politics,
+                                                className="gradient-text font-weight-bold"> like Meme, History, Science, Politics,
                                                 Psychology,
                                                 Design, and Engineering.</span></p>
                                             <a className="btn btn-secondary mt-4 row ml-1 ml-md-3" href="https://test.com">
