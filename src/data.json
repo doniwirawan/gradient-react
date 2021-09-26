@@ -228,7 +228,17 @@
             ]
         },
         {
-            "nama": "Zen Habits",
+            "nama": "Keep Going - Austin Kleon",
+            "img": "https://pimtar.id/filex/source/Keep.jpg",
+            "link": "https://github.com/doniwirawan/expense-tracker",
+            "desc": "",
+            "tags":[
+                "Self Love",
+                "self development"
+            ]
+        },
+        {
+            "nama": "Zen Habits - Leo babauta",
             "img": "https://mojokstore.com/wp-content/uploads/2020/06/Zen-Habits.jpg",
             "link": "https://github.com/doniwirawan/expense-tracker",
             "desc": "",
@@ -236,7 +246,28 @@
                 "Self Love",
                 "self development"
             ]
+        },
+        {
+            "nama": "Seni Hidup Minimalist",
+            "img": "https://ebooks.gramedia.com/ebook-covers/43612/image_highres/ID_SHM2018MTH08SHM.jpg",
+            "link": "https://github.com/doniwirawan/expense-tracker",
+            "desc": "",
+            "tags":[
+                "Self Love",
+                "self development"
+            ]
+        },
+        {
+            "nama": "This is marketing - seth godin",
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528724821l/40510807._SX318_.jpg",
+            "link": "https://github.com/doniwirawan/expense-tracker",
+            "desc": "",
+            "tags":[
+                "Self Love",
+                "self development"
+            ]
         }
+        
     ]
 
 }

@@ -7,7 +7,7 @@ const Book = () => {
         <>
             <section className="py-5 bg-light" id="book">
                 <div className="container mt-2">
-                    <h2 className="display-3 font-weight-bold text-center gradient-text">Book Recommendations</h2>
+                    <h2 className="display-3 font-weight-bold text-center gradient-text">Book Recommendation</h2>
                     <p className="text-secondary text-center">Here are some of the books I've read and I recommend you to read them too.</p>
 
                     <div className="row mt-5" id="projectContainer">

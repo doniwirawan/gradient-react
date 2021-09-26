@@ -3,8 +3,8 @@ import Menu from '../components/Menu'
 import Banner from '../components/Banner'
 import About from '../components/About'
 import Project from '../components/Project'
-import Book from '../components/Book'
 import Certificate from '../components/Certificate'
+import Book from '../components/Book'
 import Footer from '../components/Footer'
 
 import {
@@ -19,8 +19,8 @@ const Home = () => {
             <Banner />
             <About />
             <Project />
-            <Book />
             <Certificate />
+            <Book />
             <Footer />
         </Router>
     )

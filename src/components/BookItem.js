@@ -9,15 +9,15 @@ const BookItem = ({ nama, img, link, desc, tags }) => {
                     <img src={img} alt="test" className="img-fluid rounded book-img" />
                 </div>
                 <div className="col pl-2 mt-1">
-                    <h2 className="h4 gradient-text font-weight-medium text-capitalize ml-2">{nama}</h2>
+                    <h2 className="h4  font-weight-medium text-capitalize ml-2">{nama}</h2>
                     {tags.map((item, index) => <small className="tag mx-1 p
-                    ml-2" key={index}>{item}</small>)}
+                    ml-2 no-gradient" key={index}>{item}</small>)}
                 </div>
 
                 <p className="text-secondary mt-1 project-description pl-2">{desc}</p>
                 <div className="row ml-3">
-                    <a href={link} target="_blank" className="btn btn-gradient"><i
-                        className="fa fa-globe"></i> Link</a>
+                    <a href={link} target="_blank" className="btn btn-no-gradient"><i
+                        className="fa fa-shopping-cart"></i> Buy</a>
 
                 </div>
             </div>

@@ -49,6 +49,8 @@ body {
 }
 
 
+
+
 .social-media .fab {
   box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
   transition: all .7s ease-in;
@@ -181,6 +183,19 @@ a:hover {
   max-height: 250px;
 }
 
+.no-gradient {
+  background: rgb(138, 138, 138);
+}
+
+.btn-no-gradient {
+  background: #36A3FB !important;
+  color: #fff !important;
+}
+
+.btn-no-gradient:hover {
+  background: #B236F1 !important;
+  color: #fff !important;
+}
 
 @media (min-width: 768px) {
   body {
