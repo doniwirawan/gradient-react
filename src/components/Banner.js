@@ -12,18 +12,18 @@ const Banner = () => {
                             className="gradient-text display-2 font-weight-bold animate__animated animate__bounce animate__delay-1s ">
                             Doni Wirawan</h1>
                         <div className="social-media mb-4 ml-1">
-                            <a target="_blank" href="/https://github.com/doniwirawan">
+                            <a target="_blank" href="https://github.com/doniwirawan">
                                 <i className="fab fa-github-square fa-2x  text-secondary gradient-hover m-2 "></i>
                             </a>
-                            <a target="_blank" href="/https://instagram.com/doni_wirawans">
+                            <a target="_blank" href="https://instagram.com/doni_wirawans">
                                 <i className="fab fa-instagram-square fa-2x  text-secondary gradient-hover m-2 "></i>
 
                             </a>
-                            <a target="_blank" href="/https://twitter.com/doni_wirawans">
+                            <a target="_blank" href="https://twitter.com/doni_wirawans">
                                 <i className="fab fa-twitter-square fa-2x  text-secondary gradient-hover m-2 "></i>
 
                             </a>
-                            <a target="_blank" href="/https://www.linkedin.com/in/doni-wirawan-7a0189178/">
+                            <a target="_blank" href="https://www.linkedin.com/in/doni-wirawan-7a0189178/">
                                 <i className="fab fa-linkedin fa-2x  text-secondary gradient-hover m-2 "></i>
 
                             </a>
