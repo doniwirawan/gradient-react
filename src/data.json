@@ -209,20 +209,29 @@
 
     ],
     "books": [{
-            "nama": "books Tracker",
-            "img": "../img/expense.gif",
+            "nama": "Show Your Work! - Austin Kleon",
+            "img": "https://www.whatyouwilllearn.com/wp-content/uploads/2019/08/Show-Your-Work.jpg",
             "link": "https://github.com/doniwirawan/expense-tracker",
-            "desc": "This app is PWA-based, used to track income and expenses, data from the app is stored using local storage.",
+            "desc": "",
+            "tags":[
+                "self development"
+            ]
+        },
+        {
+            "nama": "Steal like an artist - austion kleon",
+            "img": "https://images-na.ssl-images-amazon.com/images/I/71wdVdp0ncL.jpg",
+            "link": "https://github.com/doniwirawan/expense-tracker",
+            "desc": "",
             "tags":[
                 "Self Love",
                 "self development"
             ]
         },
         {
-            "nama": "books Tracker",
-            "img": "../img/expense.gif",
+            "nama": "Zen Habits",
+            "img": "https://mojokstore.com/wp-content/uploads/2020/06/Zen-Habits.jpg",
             "link": "https://github.com/doniwirawan/expense-tracker",
-            "desc": "This app is PWA-based, used to track income and expenses, data from the app is stored using local storage.",
+            "desc": "",
             "tags":[
                 "Self Love",
                 "self development"

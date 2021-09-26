@@ -177,6 +177,10 @@ a:hover {
   z-index: -1;
 }
 
+.book-img {
+  max-height: 250px;
+}
+
 
 @media (min-width: 768px) {
   body {
