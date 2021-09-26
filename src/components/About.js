@@ -32,7 +32,7 @@ const About = () => {
                                 className="gradient-text font-weight-bold"> like Meme, History, Science, Politics,
                                 Psychology,
                                 Design, and Engineering.</span></p>
-                            <a className="btn btn-secondary mt-4 row  ml-md-1" href="https://test.com">
+                            <a className="btn btn-secondary mt-4 row  ml-md-1 ml-sm-2" href="https://test.com">
                                 <span><i className="fa fa-long-arrow-down"></i>Download CV</span>
                             </a>
                         </div>
