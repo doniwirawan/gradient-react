@@ -274,6 +274,26 @@
             ]
         }
         
+    ],
+    "tools": [{
+            "nama": "VS Code",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png",
+            "link": "https://github.com/doniwirawan/expense-tracker",
+            "desc": "",
+            "tags":[
+                "Text Editor"
+            ]
+        },
+        {
+            "nama": "Show Your Work! - Austin Kleon",
+            "img": "https://www.whatyouwilllearn.com/wp-content/uploads/2019/08/Show-Your-Work.jpg",
+            "link": "https://github.com/doniwirawan/expense-tracker",
+            "desc": "",
+            "tags":[
+                "self development"
+            ]
+        }
+
     ]
 
 }

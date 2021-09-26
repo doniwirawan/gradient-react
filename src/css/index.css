@@ -158,11 +158,8 @@ a:active {
 
 }
 
-a {
-  text-decoration: none;
-}
 
-a:hover {
+nav a:hover {
   border-bottom: 2px #3333 dashed;
   text-decoration: none;
 }
