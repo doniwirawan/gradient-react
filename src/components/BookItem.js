@@ -18,7 +18,7 @@ const BookItem = ({ nama, img, link, desc, tags }) => {
                 </div>
 
                 <p className="text-secondary mt-1 project-description text-center">{desc}</p>
-                <div className="row d-flex align-items-center justify-content-center">
+                <div className="row d-flex justify-content-center">
                     <a href={link} target="_blank" className="btn btn-no-gradient text-center"><i
                         className="fa fa-shopping-cart"></i> Buy</a>
 

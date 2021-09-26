@@ -121,6 +121,17 @@
             ]
         },
         {
+            "nama": "Real Estate Gallery Maps view",
+            "img": "../img/leafletjs.gif",
+            "link": ["https://github.com/doniwirawan/OpenStreetMap-Real-Life-Implementation", "https://doniwirawan.github.io/OpenStreetMap-Real-Life-Implementation/"],
+            "desc": "Open Street Map realestate gallery using leaflet.js as a library",
+            "tags":[
+                "html",
+                "css",
+                "js"
+            ]
+        },
+        {
             "nama": "Bali Tours",
             "img": "../img/bali-tours.gif",
             "link": ["https://github.com/doniwirawan/natours-bali-tours-version", "https://doni-bali-tours.netlify.com/"],
