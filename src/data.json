@@ -285,14 +285,105 @@
             ]
         },
         {
-            "nama": "Show Your Work! - Austin Kleon",
-            "img": "https://www.whatyouwilllearn.com/wp-content/uploads/2019/08/Show-Your-Work.jpg",
+            "nama": "Git",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png",
             "link": "https://github.com/doniwirawan/expense-tracker",
             "desc": "",
             "tags":[
-                "self development"
+                "Version Control System"
+            ]
+        },
+        {
+            "nama": "Netlify",
+            "img": "https://download.logo.wine/logo/Netlify/Netlify-Logo.wine.png",
+            "link": "https://github.com/doniwirawan/expense-tracker",
+            "desc": "",
+            "tags":[
+                "Free Hosting"
+            ]
+        },
+        {
+            "nama": "Vercel",
+            "img": "https://res.cloudinary.com/apideck/image/upload/w_200,f_auto/v1590753293/catalog/vercel/icon128x128.jpg",
+            "link": "https://github.com/doniwirawan/expense-tracker",
+            "desc": "",
+            "tags":[
+                "Free Hosting"
+            ]
+        },
+        {
+            "nama": "Postman",
+            "img": "https://www.marcus-povey.co.uk/wp-content/866-8665831_the-postman-logo-is-available-in-png-svg.png.jpeg",
+            "link": "https://github.com/doniwirawan/expense-tracker",
+            "desc": "",
+            "tags":[
+                "API but not hot"
+            ]
+        },
+        {
+            "nama": "Figma",
+            "img": "https://2.bp.blogspot.com/-KVFNcyNJpmc/XIe-Sqa674I/AAAAAAAAIuk/VRK5WWydfD4yjMq_AkU6B2h3WAROEvOMgCK4BGAYYCw/s1600/logo%2Bfigma%2Bicon.png",
+            "link": "https://github.com/doniwirawan/expense-tracker",
+            "desc": "",
+            "tags":[
+                "Design skirrtt"
+            ]
+        },
+        {
+            "nama": "iTerm 2",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/5/57/ITerm2_v3_icon.png",
+            "link": "https://github.com/doniwirawan/expense-tracker",
+            "desc": "Hacker?",
+            "tags":[
+                "for cool guy"
+            ]
+        },
+        {
+            "nama": "Chrome",
+            "img": "https://cdn1.iconfinder.com/data/icons/google_jfk_icons_by_carlosjj/512/chrome.png",
+            "link": "https://github.com/doniwirawan/expense-tracker",
+            "desc": "",
+            "tags":[
+                "Please don't eat my whole ram"
+            ]
+        },
+        {
+            "nama": "Notion",
+            "img": "http://assets.stickpng.com/images/5fb6d3336e2d460004a5e31f.png",
+            "link": "https://github.com/doniwirawan/expense-tracker",
+            "desc": "",
+            "tags":[
+                "Organize guyy"
+            ]
+        },
+        {
+            "nama": "Adobe XD",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/2101px-Adobe_XD_CC_icon.svg.png",
+            "link": "https://github.com/doniwirawan/expense-tracker",
+            "desc": "",
+            "tags":[
+                "Design skirrtt"
+            ]
+        },
+        {
+            "nama": "Table Plus",
+            "img": "https://tableplus.com/resources/favicons/apple-icon.png",
+            "link": "https://github.com/doniwirawan/expense-tracker",
+            "desc": "",
+            "tags":[
+                "Table ++"
+            ]
+        },
+        {
+            "nama": "Laragon",
+            "img": "https://progsoft.net/images/laragon-icon-6ba1779098fd909dbfd41617e35b0e4188981367.png",
+            "link": "https://github.com/doniwirawan/expense-tracker",
+            "desc": "",
+            "tags":[
+                "Wushh"
             ]
         }
+        
 
     ]
 

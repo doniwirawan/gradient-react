@@ -3,11 +3,11 @@ import React from 'react'
 const ToolItem = ({ nama, img, link, desc, tags }) => {
     return (
         <>
-            <div className="col-lg-4  col-md-12 p-3 border-top border-bottom">
+            <div className="col-lg-3  col-md-12 p-3 border-top border-bottom">
 
                 <div className="col d-flex justify-content-center align-items-center ">
                     <a href={link} target="_blank">
-                        <img src={img} alt="test" className="img-fluid rounded book-img" />
+                        <img src={img} alt="test" className="img-fluid rounded tool-img" />
                     </a>
                 </div>
                 <div className="col pl-2 mt-1">

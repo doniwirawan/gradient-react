@@ -5,7 +5,7 @@ import Data from '../data.json'
 const Book = () => {
     return (
         <>
-            <section className="py-5 bg-light" id="book">
+            <section className="py-5 " id="book">
                 <div className="container mt-2">
                     <h2 className="display-3 font-weight-bold text-center gradient-text">Book Recommendation</h2>
                     <p className="text-secondary text-center">Hi Nerds, I'm Glad You Are Here. Here are some of the books I've read and I recommend you to read them too.</p>
