@@ -183,6 +183,11 @@ a:hover {
   max-height: 250px;
 }
 
+.book-img:hover {
+  transform: scale(1.4);
+  transition: all 3s;
+}
+
 .no-gradient {
   background: rgb(138, 138, 138);
 }
@@ -195,6 +200,11 @@ a:hover {
 .btn-no-gradient:hover {
   background: #B236F1 !important;
   color: #fff !important;
+}
+
+img:hover {
+  transform: scale(1.4);
+  transition: all 3s;
 }
 
 @media (min-width: 768px) {
