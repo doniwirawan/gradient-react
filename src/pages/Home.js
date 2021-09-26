@@ -3,6 +3,7 @@ import Menu from '../components/Menu'
 import Banner from '../components/Banner'
 import About from '../components/About'
 import Project from '../components/Project'
+import Book from '../components/Book'
 import Certificate from '../components/Certificate'
 import Footer from '../components/Footer'
 
@@ -14,12 +15,13 @@ const Home = () => {
 
     return (
         <Router>
-            <Menu/>
-            <Banner/>
-            <About/>
-            <Project/>
-            <Certificate/>
-            <Footer/>
+            <Menu />
+            <Banner />
+            <About />
+            <Project />
+            <Book />
+            <Certificate />
+            <Footer />
         </Router>
     )
 }

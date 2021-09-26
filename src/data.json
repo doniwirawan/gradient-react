@@ -207,6 +207,27 @@
             ]
         }
 
+    ],
+    "books": [{
+            "nama": "books Tracker",
+            "img": "../img/expense.gif",
+            "link": "https://github.com/doniwirawan/expense-tracker",
+            "desc": "This app is PWA-based, used to track income and expenses, data from the app is stored using local storage.",
+            "tags":[
+                "Self Love",
+                "self development"
+            ]
+        },
+        {
+            "nama": "books Tracker",
+            "img": "../img/expense.gif",
+            "link": "https://github.com/doniwirawan/expense-tracker",
+            "desc": "This app is PWA-based, used to track income and expenses, data from the app is stored using local storage.",
+            "tags":[
+                "Self Love",
+                "self development"
+            ]
+        }
     ]
 
 }

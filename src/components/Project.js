@@ -19,7 +19,7 @@ const Project = () => {
                     </div>
                 </div>
 
-        </section>
+            </section>
         </>
     )
 }
