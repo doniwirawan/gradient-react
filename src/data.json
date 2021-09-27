@@ -380,7 +380,16 @@
             "link": "https://github.com/doniwirawan/expense-tracker",
             "desc": "",
             "tags":[
-                "Wushh"
+                "What is XAMPP?"
+            ]
+        },
+        {
+            "nama": "Heroku",
+            "img": "https://www.nicepng.com/png/detail/67-671824_heroku-logo-heroku.png",
+            "link": "https://github.com/doniwirawan/expense-tracker",
+            "desc": "",
+            "tags":[
+                "Free Hosting"
             ]
         }
         
